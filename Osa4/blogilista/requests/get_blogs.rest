@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+
+{
+    "title": "How to dominate the world",
+    "author": "Meower",
+    "url": "meow.com",
+    "likes": 6
+}
