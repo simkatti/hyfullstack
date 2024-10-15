@@ -1,10 +1,10 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJsYWNrY2F0IiwiaWQiOiI2NzBlMzFhYWVkYTY2ZjRjMzQzMGFhYTkiLCJpYXQiOjE3Mjg5OTM1NTJ9.FvmGxLIgWnaasS-qq8DMNJSnJD3tq4hGLzNsRTgLNSw
 
 {
-    "title": "How to dominate the world",
-    "author": "Meower",
-    "url": "meow.com",
-    "likes": 6
+    "title": "How to make human give you catnip",
+    "author": "catnip grower",
+    "url": "catsinpower.com",
+    "likes": 10
 }
